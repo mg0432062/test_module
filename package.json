@@ -1,0 +1,26 @@
+{
+  "name": "test_module",
+  "version": "0.0.1",
+  "description": "my npm test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mg0432062/mytest"
+  },
+  "dependencies": {
+    "zws": "*"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "Yang Min",
+  "license": "IBM",
+  "bugs": {
+    "url": "https://github.com/mg0432062/mytest/issues"
+  },
+  "homepage": "https://github.com/mg0432062/mytest"
+}
